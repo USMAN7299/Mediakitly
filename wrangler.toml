@@ -1,0 +1,8 @@
+name = "REPLACE-WITH-YOUR-CLOUDFLARE-PAGES-PROJECT"
+compatibility_date = "2026-11-25"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mediakitly-db"
+database_id = "REPLACE-WITH-D1-DATABASE-ID"

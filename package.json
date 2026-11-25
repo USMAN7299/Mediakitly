@@ -1,0 +1,12 @@
+{
+  "name": "mediakitly",
+  "private": true,
+  "version": "3.0.0",
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy ."
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
